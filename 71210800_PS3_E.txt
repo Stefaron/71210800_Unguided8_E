@@ -1,0 +1,26 @@
+Deklarasi :
+i,n,fibonacci(i) : integer
+
+Deskripsi :
+input n
+if i=0 OR i=1 then
+tampilkan "fibonacci(i)=i"
+else
+while i>1 AND i<=n do
+fibonacci(i) = fibonacci(i-1) + fibonacci(i-2)
+tampilkan "fibonacci(i)"
+i=i+1
+end
+
+
+Penjelasan :
+1. Pertama buat variabel i dan n, variabel i adalah fibonacci dan n adalah banyak suku yang akan diinput
+2. i dan n adalah bilangan bulat(integer)
+3. Selanjutnya input n, yaitu memasukkan banyak bilangan fibonancci yang diinginkan
+4. Menentukan nilai i, suku 1=0 lalu suku 2=1
+5. Jika i=0 atau i=1, maka tampilkan fibonacci(i)=i
+6. Kemudian untuk suku selanjutnya, isi nilai i>1 dan juga harus i<=n
+7. Lalu tambahkan nilai pada variabel fibonacci di bilangan ke (i-1) dengan nilai pada variabel fibonacci di bilangan ke (i-2), kemudian nyatakan ke variabel fibonacci pada indeks ke i
+8. Tampilkan nilai variabel fibonacci(i)
+9. Tambahkan i dengan 1
+10. END
