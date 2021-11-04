@@ -1,0 +1,6 @@
+Gelas yang akan terisi penuh terlebih dulu adalah gelas nomor 2.
+Karena air mengalir ke pipa yang lebih rendah dulu.
+
+Pertama air mengalir ke gelas no 4, lalu air akan mengalir ke pipa di sebelah kiri karena posisi pipanya lebih rendah dari yang sebelah kanan.
+Selanjutnya air masuk ke gelas no 2 dan tidak akan mengalir ke gelas nomor 1 ataupun ke nomor 3, karena salurannya tertutup.
+Maka bisa disimpulkan gelas yang terisi lebih dahulu adalah gelas nomor 2.
